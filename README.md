@@ -1,4 +1,4 @@
-# Poohter Buyer Privacy Policy
+# Poohter Privacy Policy
 
 Static privacy policy page for Google Play Console and custom domain hosting.
 
